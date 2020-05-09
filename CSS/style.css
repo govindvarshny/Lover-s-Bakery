@@ -1,0 +1,129 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+}
+
+h1{
+
+  font-family: 'Sacramento', cursive;
+  position: relative;
+  bottom: 600px;
+  right: 450px;
+  color:#bd5860;
+  font-size: 5rem;
+
+}
+
+p{
+
+  font-family: 'VT323', monospace;
+  position: relative;
+  bottom: 600px;
+  right:500px;
+  color:#ecbaa3;
+  font-size: 2rem;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*************************************************************************************************class tag************************************************************************************/
+
+.top-container{
+
+  height: 765px;
+  width: 1519px;
+  position: relative;
+}
+
+
+
+.background{
+
+  height: 765px;
+  width: 1519px;
+}
+
+
+.bakerylogo{
+
+  height: 90px;
+  width: 245px;
+  margin: 10px;
+  position: relative;
+  bottom: 765px;
+  right: 620px;
+
+
+}
+
+.middle-container{
+  height: 765px;
+  width: 1519px;
+}
+
+.middle{
+  margin-top:1.5px;
+  height: 798px;
+  width: 1519px;
+}
+
+
+.btn{
+  height: 40px;
+  width: 80px;
+  position: relative;
+  top: 10px;
+
+
+}
+.bottom-container{
+
+
+  height: 200px;
+  width: 1519px;
+  position: relative;
+  background-color: #e7e7e6;
+}
+
+
+
+
+/***********************************************selectors*********************************************/
